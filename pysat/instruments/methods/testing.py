@@ -1,3 +1,7 @@
+# -*- coding: utf-8 -*-
+"""Provides default routines for use in test instruments
+"""
+
 import numpy as np
 
 
